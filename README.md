@@ -22,10 +22,18 @@ A list of resources related to games using idtech engine.
 
 ## Networking
 
-## Medal of Honor related projects
-
+## Medal of Honor
+ * [X-null forum](https://www.x-null.net/forums/forum.php)
+ * [SDK Documentation](http://homepage.eircom.net/~abyrne/sdk/)
  * [Openmohaa](https://github.com/openmoh/openmohaa)
  * [Nightfall: A dgamex86.dll wrapper](https://github.com/mohabhassan/NightFall)
  * [MOHPC: A library for reading assets from MOHAA](https://github.com/moh-rises/mohpc)
  * [Morfuse: an experimental cross-platform game script engine](https://github.com/morfuse/morfuse)
+ 
+## FAKK
+  * [SDK](https://github.com/Crimewavezz/F.A.K.K.-2-SDK)
+  * [Cooperative gameplay project](https://github.com/Crimewavezz/F.A.K.K.-2-Co-Op)
+  * [Cvars](https://www.moddb.com/mods/fakk-multiplayer/features/fakk-2-configuration-variables-cvars)
+  * [Console Commands](https://www.moddb.com/games/heavy-metal-fakk-2/features/fakk-console-commands)
+  
  
