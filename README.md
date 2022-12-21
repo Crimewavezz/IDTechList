@@ -2,6 +2,9 @@
 A list of resources related to games using idtech engine.
 
 ## Articles
+
+  
+ 
   *Chrissstrahl*
   
   *FabienSanglard*
@@ -9,12 +12,15 @@ A list of resources related to games using idtech engine.
   
 ## BSP
  * [GTK Radiant](https://github.com/DT85/GtkRadiant)
+ * [Netradiant: GTK radiant on steroids](https://github.com/Garux/netradiant-custom)
  * [Wfowler's BSP Decompiler](https://github.com/wfowler1/bsp-decompiler)
  * [SomaZ's BSP to Blender Importer](https://github.com/SomaZ/Blender_BSP_Importer)
   
 ## Models
 
 ## Engines
+
+## Networking
 
 ## Medal of Honor related projects
 
