@@ -19,7 +19,7 @@ A list of resources related to games using idtech engine.
 ## Medal of Honor related projects
 
  * [Openmohaa](https://github.com/openmoh/openmohaa)
- * [Nightfall: A dgmax86.dll wrapper](https://github.com/mohabhassan/NightFall)
+ * [Nightfall: A dgamex86.dll wrapper](https://github.com/mohabhassan/NightFall)
  * [MOHPC: A library for reading assets from MOHAA](https://github.com/moh-rises/mohpc)
  * [Morfuse: an experimental cross-platform game script engine](https://github.com/morfuse/morfuse)
  
