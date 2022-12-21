@@ -3,10 +3,10 @@ A list of resources related to games using idtech engine.
 
 ## Articles
 
-  
- 
   *Chrissstrahl*
-  
+  * [Modyfying a BSP](https://www.moddb.com/mods/star-trek-elite-force-ii-coop-hazardmodding/tutorials/modifying-a-bsp-binary-space-partitioning)
+  * [BSP-Level based game Engines](https://www.moddb.com/company/hazardmodding/tutorials/bsp-level-based-game-engines)
+ 
   *FabienSanglard*
   * [Quake 3 Source Code Review](https://fabiensanglard.net/quake3)
   
