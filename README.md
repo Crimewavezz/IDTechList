@@ -25,6 +25,7 @@ A list of resources related to games using idtech engine.
  * [X-null forum](https://www.x-null.net/forums/forum.php)
  * [SDK Documentation](http://homepage.eircom.net/~abyrne/sdk/)
  * [Openmohaa](https://github.com/openmoh/openmohaa)
+ * [Medal of Honor: Unreal Engine](https://gitlab.com/mohue)
  * [Nightfall: A dgamex86.dll wrapper](https://github.com/mohabhassan/NightFall)
  * [MOHPC: A library for reading assets from MOHAA](https://github.com/moh-rises/mohpc)
  * [Morfuse: an experimental cross-platform game script engine](https://github.com/morfuse/morfuse)
